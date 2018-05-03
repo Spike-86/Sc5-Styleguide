@@ -1,0 +1,153 @@
+@import "./colors_const";
+
+.color-container {
+  height: 50px;
+  text-align: center;
+  margin: 20px 0;
+  padding-top: 10px;
+  font-size: 20px;
+  color: $color_white;
+}
+
+//Цвета
+//
+//<h3>На этой странице отображены все цвета, используемые в проекте.</h3>
+//
+//markup:
+//<div class="color-container color_white" style="color: $color_pink_light; border: 1px solid;">color_white / $color_white</div>
+//<div class="color-container color_pink_light">color_pink_light / $color_pink_light</div>
+//<div class="color-container color_red">color_red / $color_red</div>
+//<div class="color-container color_raspberries">color_raspberries / $color_raspberries</div>
+//<div class="color-container color_scarlet">color_scarlet / $color_scarlet</div>
+//<div class="color-container color_orange">color_orange / $color_orange</div>
+//<div class="color-container color_peach" style="color: $color_orange;">color_peach / $color_peach</div>
+//<div class="color-container color_yellow" style="color: $color_green_toxic;">color_yellow / $color_yellow</div>
+//<div class="color-container color_green_toxic">color_green_toxic / $color_green_toxic</div>
+//<div class="color-container color_green_main">color_green_main / $color_green_main</div>
+//<div class="color-container color_green_darken">color_green_darken / $color_green_darken</div>
+//<div class="color-container color_green_80">color_green_80 / $color_green_80</div>
+//<div class="color-container color_green_light" style="color: $color_olive;">color_green_light / $color_green_light</div>
+//<div class="color-container color_olive">color_olive / $color_olive</div>
+//<div class="color-container color_sky" style="color: $color_blue_80; border: 1px solid;">color_sky / $color_sky</div>
+//<div class="color-container color_blue_80">color_blue_80 / $color_blue_80</div>
+//<div class="color-container color_blue_light">color_blue_light / $color_blue_light</div>
+//<div class="color-container color_blue">color_blue / $color_blue</div>
+//<div class="color-container color_violet">color_violet / $color_violet</div>
+//<div class="color-container color_brown">color_brown / $color_brown</div>
+//<div class="color-container color_gray_light" style="color: $color_brown;">color_gray_light / $color_gray_light</div>
+//<div class="color-container color_gray80">color_gray80 / $color_gray80</div>
+//<div class="color-container color_gray60">color_gray60 / $color_gray60</div>
+//<div class="color-container color_gray40">color_gray40 / $color_gray40</div>
+//<div class="color-container color_gray20">color_gray20 / $color_gray20</div>
+//<div class="color-container color_brown_darken">color_brown_darken / $color_brown_darken</div>
+//<div class="color-container color_black">color_black / $color_black</div>
+//
+//Styleguide 2.0
+
+.color_white {
+  background-color: $color_white;
+}
+
+.color_pink_light {
+  background-color: $color_pink_light;
+}
+
+.color_red {
+  background-color: $color_red;
+}
+
+.color_raspberries {
+  background-color: $color_raspberries;
+}
+
+.color_scarlet {
+  background-color: $color_scarlet;
+}
+
+.color_orange {
+  background-color: $color_orange;
+}
+
+.color_peach {
+  background-color: $color_peach;
+}
+
+.color_yellow {
+  background-color: $color_yellow;
+}
+
+.color_green_toxic {
+  background-color: $color_green_toxic;
+}
+
+.color_green_main {
+  background-color: $color_green_main;
+}
+
+.color_green_darken {
+  background-color: $color_green_darken;
+}
+
+.color_green_80 {
+  background-color: $color_green_80;
+}
+
+.color_green_light {
+  background-color: $color_green_light;
+}
+
+.color_sky {
+  background-color: $color_sky;
+}
+
+.color_olive {
+  background-color: $color_olive;
+}
+
+.color_blue_80 {
+  background-color: $color_blue_80;
+}
+
+.color_blue_light {
+  background-color: $color_blue_light;
+}
+
+.color_blue {
+  background-color: $color_blue;
+}
+
+.color_violet {
+  background-color: $color_violet;
+}
+
+.color_brown {
+  background-color: $color_brown;
+}
+
+.color_gray_light {
+  background-color: $color_gray_light;
+}
+
+.color_gray80 {
+  background-color: $color_gray80;
+}
+
+.color_gray60 {
+  background-color: $color_gray60;
+}
+
+.color_gray40 {
+  background-color: $color_gray40;
+}
+
+.color_gray20 {
+  background-color: $color_gray20;
+}
+
+.color_brown_darken {
+  background-color: $color_brown_darken;
+}
+
+.color_black {
+  background-color: $color_black;
+}

@@ -1,0 +1,23 @@
+.section-markup-wrapper {
+  font-family: Arial, sans-serif; }
+
+.section-markup-wrapper h1, h2, h3, h4, h5, h6 {
+  display: inline-block; }
+
+.section-markup-wrapper h1 {
+  font-size: 36px; }
+
+.section-markup-wrapper h2 {
+  font-size: 20px; }
+
+.section-markup-wrapper h3 {
+  font-size: 16px; }
+
+.section-markup-wrapper h4 {
+  font-size: 14px; }
+
+.section-markup-wrapper h5 {
+  font-size: 12px; }
+
+.section-markup-wrapper h6 {
+  font-size: 10px; }

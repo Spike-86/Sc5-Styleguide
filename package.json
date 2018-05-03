@@ -1,0 +1,16 @@
+{
+  "name": "aservice_styleguide",
+  "version": "1.0.0",
+  "description": "В данном гиде хранятся все css стили и образцы DOM элементов проекта Aservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spike",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp-sass": "^4.0.1",
+    "sc5-styleguide": "^2.0.4"
+  }
+}
